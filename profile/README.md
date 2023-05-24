@@ -4,7 +4,7 @@
 
 ## mave.io
 
-Integrating video shouldn't be difficult... and why are we still using of iframes to embed video? It can be faster, easier and more customizable to give your users a better video experience.
+Integrating video shouldn't be difficult... and why are we still using iframes to embed video? It can be faster, easier and more customizable to give your users a better video experience.
 
 Hey 👋 We're [mave.io](https://mave.io) and we provide hosted video with lightweight components. We're EU hosted and privacy-friendly too.
 
